@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Downline Recruiter</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="phone">Mobile Number</string>
+    <string name="address">Address</string>
+    <string name="addDownline">Add Downline</string>
+    <string name="email">e-Mail Address</string>
+    <string name="registerDone">Thank you.\nYour application received. An upline will be notified via email should this registration successful.</string>
+</resources>
